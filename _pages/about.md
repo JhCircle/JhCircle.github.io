@@ -26,7 +26,7 @@ I'm interested in LLM Reasoning & AI for Social Good. If you have any questions,
 
 - 2025.05: &nbsp;🎉🎉 Achieved 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
 
-- 2025.02: &nbsp;🎉🎉 Honored to serve as a reviewer for WWW 2025 Web4Good.
+- 2024.10: &nbsp;🎉🎉 Honored to serve as a reviewer for WWW 2025 Web4Good.
 
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 
