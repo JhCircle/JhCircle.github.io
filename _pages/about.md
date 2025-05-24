@@ -22,12 +22,15 @@ Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="
 I'm interested in LLM Reasoning & AI for Social Good. If you have any questions, feel free to drop me an email!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
 
 - 2025.05: &nbsp;🎉🎉 Achieved 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
 
 - 2025.02: &nbsp;🎉🎉 Honored to serve as a reviewer for WWW 2025 Web4Good.
+
+- *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="sym" width="100%"></div></div>
@@ -53,7 +56,14 @@ ACL 2025 Main
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLMSR@XLLM25 2025</div><img src='images/less_is_more.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="text-align: center;">
+      <div class="badge">LLMSR@XLLM25 2025</div>
+      <img src='images/less_is_more.png' alt="sym" style="display: inline-block; width: 40%;">
+    </div>
+  </div>
+
 <div class='paper-box-text' markdown="1">
 
 [LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://arxiv.org/abs/2504.16408)
