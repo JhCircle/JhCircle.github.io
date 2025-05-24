@@ -36,20 +36,24 @@ I'm interested in LLM Reasoning & AI for Social Good. If you have any questions,
 [Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://arxiv.org/pdf/2410.12323)
 
 **Jiahao Yuan**, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem
+
+ACL 2025 Main
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectD' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/abs/2409.10289)
 
 **Jiahao Yuan**, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem
+
+ACL 2025 Main
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLMSR@XLLM25 2025</div><img src='images/less_is_more.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLMSR@XLLM25 2025</div><img src='images/less_is_more.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://arxiv.org/abs/2504.16408)
