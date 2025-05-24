@@ -47,7 +47,7 @@ ACL 2025 Main
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/abs/2409.10289)
+[ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/pdf/2409.10289)
 
 **Jiahao Yuan**, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem
 
