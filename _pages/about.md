@@ -70,7 +70,7 @@ ACL 2025 Main
 
 **Jiahao Yuan**, Xingzhe Sun, Xing Yu, Jingwen Wang, Dehui Du, Zhiqing Cui, Zixiang Di
 
-XLLM@ACL (Challenge, 3rd Place) 2025
+XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-is-More)
 </div>
 </div>
 
