@@ -19,7 +19,8 @@ redirect_from:
 
 Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-I'm interested in LLM Reasoning & AI for Social Good. If you have any questions, feel free to drop me an email!
+I'm interested in **LLM Reasoning** & **AI for Social Good**, and currently seeking Research Intern opportunities to strengthen my PhD application.
+Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) if you have relevant opportunities or ideas to collaborate!
 
 # 🔥 News
 - 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
