@@ -41,7 +41,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 **Jiahao Yuan**, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem
 
-ACL 2025 Main
+ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
 </div>
 </div>
 
