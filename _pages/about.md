@@ -43,7 +43,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 [Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
 
-Zhiqing Cui*, **Jiahao Yuan***, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
+Zhiqing Cui\*, **Jiahao Yuan\***, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
 
 ACM MM 2025
 </div>
