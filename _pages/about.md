@@ -23,6 +23,8 @@ I'm interested in **LLM Reasoning** & **AI for Social Good**, and currently seek
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) if you have relevant opportunities or ideas to collaborate!
 
 # 🔥 News
+- 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025!
+
 - 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
 
 - 2025.05: &nbsp;🎉🎉 Achieved 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
@@ -31,10 +33,23 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 
+- 🙌 Reviewer for ACL Rolling Review （ACL 2025, EMNLP 2025）
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="sym" width="100%"></div></div>
+# 📝 Publications (* Indicates Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
+
+Zhiqing Cui*, **Jiahao Yuan***, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
+
+ACM MM 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="rot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://arxiv.org/pdf/2410.12323)
@@ -45,7 +60,7 @@ ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="reflectdiffu" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/pdf/2409.10289)
