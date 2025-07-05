@@ -38,7 +38,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 # 📝 Publications (* Indicates Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
