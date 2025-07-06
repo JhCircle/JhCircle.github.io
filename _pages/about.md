@@ -75,7 +75,7 @@ ACL 2025 Main
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
-      <div class="badge">LLMSR@XLLM25 2025</div>
+      <div class="badge">LLMSR@XLLM25</div>
       <img src='images/less_is_more.png' alt="sym" style="display: inline-block; width: 40%;">
     </div>
   </div>
