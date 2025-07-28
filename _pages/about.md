@@ -104,4 +104,7 @@ XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-i
 - Reviewer: WWW (2025), ACL (2025), EMNLP (2025)
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
+<div style="text-align: center;">
+  <div style="display: inline-block; width: 50%;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>  </div>
+</div>
