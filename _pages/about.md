@@ -19,8 +19,7 @@ redirect_from:
 
 Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-I'm interested in **LLM Reasoning** & **AI for Social Good**, and currently seeking Research Intern opportunities to strengthen my PhD application.
-Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) if you have relevant opportunities or ideas to collaborate!
+My research interests broadly lie in VLM/LLM Reasoning and AI for Social Good, with a focus on building intelligent agents capable of perceiving, reasoning, and interacting robustly in complex real-world environments. My long-term goal is to develop generalizable, human-aligned AI systems that benefit society. I’m actively seeking Research Intern opportunities to strengthen my PhD application. Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 if you have relevant opportunities or ideas to collaborate!
 
 # 🔥 News
 - 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025!
@@ -29,11 +28,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 - 2025.05: &nbsp;🎉🎉 Achieved 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
 
-- 2024.10: &nbsp;🎉🎉 Honored to serve as a reviewer for WWW 2025 Web4Good.
-
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
-
-- 🙌 Reviewer for ACL Rolling Review （ACL 2025, EMNLP 2025）
 
 
 # 📝 Publications (* Indicates Equal Contribution)
@@ -52,7 +47,7 @@ ACM MM 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="rot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://arxiv.org/pdf/2410.12323)
+[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://aclanthology.org/2025.acl-long.955/)
 
 **Jiahao Yuan**, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem
 
@@ -63,7 +58,7 @@ ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="reflectdiffu" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/pdf/2409.10289)
+[ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://aclanthology.org/2025.acl-long.1235/)
 
 **Jiahao Yuan**, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem
 
@@ -82,7 +77,7 @@ ACL 2025 Main
 
 <div class='paper-box-text' markdown="1">
 
-[LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://arxiv.org/abs/2504.16408)
+[LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://aclanthology.org/2025.xllm-1.23/)
 
 **Jiahao Yuan**, Xingzhe Sun, Xing Yu, Jingwen Wang, Dehui Du, Zhiqing Cui, Zixiang Di
 
@@ -103,3 +98,10 @@ XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-i
 # 📖 Educations
 - *2024.06 - now*, Artificial Intelligence, East China Normal University. 
 - *2020.09 - 2024.06*, Computer Science & Technology, University of Shanghai for Science and Technology. 
+
+# ✍️ Service
+
+- Reviewer: WWW (2025), ACL (2025), EMNLP (2025)
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qe6ASVR6BgForBVG7TTZP4To7UOqWV-GnGZEF9Ht7hs&cl=ffffff&w=a"></script>
