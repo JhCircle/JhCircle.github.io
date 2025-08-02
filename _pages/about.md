@@ -39,7 +39,7 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 **Jiahao Yuan**, Zixiang Di, Shangzixin Zhao, Zhiqing Cui, Hanqing Wang, Guisong Yang, Usman Naseem
 
-Under Review
+Under Review | [Project](https://github.com/JhCircle/CulturalPalette)
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Under Review
 
 Zhiqing Cui\*, **Jiahao Yuan\***, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
 
-ACM MM 2025
+ACM MM 2025 
 </div>
 </div>
 
