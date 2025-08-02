@@ -32,7 +32,7 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 # 📝 Publications (* Indicates Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette](https://arxiv.org/abs/2412.11167)
@@ -44,7 +44,10 @@ Under Review | [Project](https://github.com/JhCircle/CulturalPalette)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">MM 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div style="text-align: center;">
+<div class="badge">MM 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
@@ -55,7 +58,7 @@ ACM MM 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="rot" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="rot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://aclanthology.org/2025.acl-long.955/)
@@ -66,7 +69,7 @@ ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="reflectdiffu" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="reflectdiffu" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://aclanthology.org/2025.acl-long.1235/)
