@@ -30,8 +30,19 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 
-
 # 📝 Publications (* Indicates Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette](https://arxiv.org/abs/2412.11167)
+
+**Jiahao Yuan**, Zixiang Di, Shangzixin Zhao, Zhiqing Cui, Hanqing Wang, Guisong Yang, Usman Naseem
+
+Under Review
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
