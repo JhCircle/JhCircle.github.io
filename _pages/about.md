@@ -32,7 +32,7 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 # 📝 Publications (* Indicates Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette](https://arxiv.org/abs/2412.11167)
