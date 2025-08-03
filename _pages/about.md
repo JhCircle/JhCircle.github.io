@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**, with a focus on building intelligent agents capable of perceiving, reasoning, and interacting robustly in complex real-world environments. My long-term goal is to develop generalizable, human-aligned AI systems that benefit society. I’m actively seeking Research Intern opportunities to strengthen my PhD application. Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 if you have relevant opportunities or ideas to collaborate!
+My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**, with a focus on building intelligent agents capable of perceiving, reasoning, and interacting robustly in complex real-world environments. My long-term goal is to develop generalizable, human-aligned AI systems that benefit society. I’m actively seeking Research Intern opportunities to strengthen my PhD application. Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
 - 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025!
@@ -115,4 +115,11 @@ XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-i
 
 # ✍️ Service
 
-- Reviewer: WWW (2025), ACL (2025), EMNLP (2025)
+- Reviewer: WWW Web4Good (2025); ACL (2025); EMNLP (2025); AAAI AI Alignment & AI for Social Impact (2025)
+
+<div style="text-align:center;">
+  <div style="display:inline-block; transform: scale(0.5); transform-origin: center;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
+  </div>
+</div>
+
