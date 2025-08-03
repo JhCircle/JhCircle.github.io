@@ -117,9 +117,12 @@ XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-i
 
 - Reviewer: WWW Web4Good (2025); ACL (2025); EMNLP (2025); AAAI AI Alignment & AI for Social Impact (2025)
 
-<div style="text-align:center;">
-  <div style="display:inline-block; transform: scale(0.5); transform-origin: center;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
+<div style="text-align: center;">
+  <div style="display: inline-block; transform: scale(0.5); transform-origin: center;">
+    <div id="clustrmaps-container">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
+    </div>
   </div>
 </div>
+
 
