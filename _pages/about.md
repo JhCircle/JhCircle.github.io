@@ -115,7 +115,7 @@ XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-i
 
 # ✍️ Service
 
-- Reviewer: WWW Web4Good (2025); ACL (2025); EMNLP (2025); AAAI AI Alignment & AI for Social Impact (2025)
+- Reviewer: WWW Web4Good (2025); ACL (2025); EMNLP (2025); AAAI (2026)
 
 <div style="text-align: center;">
   <div style="display: inline-block; width: 40%;">
