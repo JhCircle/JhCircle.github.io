@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**, with a focus on building intelligent agents capable of perceiving, reasoning, and interacting robustly in complex real-world environments. My long-term goal is to develop generalizable, human-aligned AI systems that benefit society. I’m actively seeking Research Intern opportunities to strengthen my PhD application. Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
+My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**, with a focus on building intelligent agents capable of perceiving, reasoning, and interacting robustly in complex real-world environments. My long-term goal is to develop generalizable, human-aligned AI systems that benefit society. I’m actively seeking Research Intern opportunities to strengthen my PhD application. Feel free to reach out via email at <span style="color:#1677FF">[jamse_yuan@163.com](mailto:jamse_yuan@163.com)</span> or Wechat (<span style="color:#1677FF">jhcircle0901</span>) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
 - 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025!
