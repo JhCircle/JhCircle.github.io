@@ -38,7 +38,7 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 [Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
 
-Shangziqi Zhao\*, **Jiahao Yuan<sup>\* †</sup>**, Guisong Yang, Usman Naseem
+Shangziqi Zhao<sup>\*</sup>, **Jiahao Yuan<sup>\* †</sup>**, Guisong Yang, Usman Naseem
 
 Under Review
 </div>
@@ -64,7 +64,7 @@ Under Review | [Project](https://github.com/JhCircle/CulturalPalette)
 
 [Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
 
-Zhiqing Cui\*, **Jiahao Yuan\***, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
+Zhiqing Cui\*, **Jiahao Yuan<sup>\*</sup>**, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
 
 ACM MM 2025 
 </div>
