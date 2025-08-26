@@ -30,7 +30,7 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 
-# 📝 Publications (* Indicates Equal Contribution)
+# 📝 Publications (* Indicates Equal Contribution; † Indicates Project Leader)
 
 
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/Prune-on-Logic.png' alt="prune_on_logic" width="100%"></div></div>
@@ -38,7 +38,7 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 [Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
 
-Shangziqi Zhao\*, Jiahao Yuan\* †, Guisong Yang, Usman Naseem
+Shangziqi Zhao\*, Jiahao Yuan\* \†, Guisong Yang, Usman Naseem
 
 Under Review
 </div>
