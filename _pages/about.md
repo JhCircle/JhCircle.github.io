@@ -32,6 +32,18 @@ My research interests broadly lie in **VLM/LLM Reasoning & AI for Social Good**,
 
 # 📝 Publications (* Indicates Equal Contribution)
 
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/Prune-on-Logic.png' alt="prune_on_logic" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
+
+Shangziqi Zhao\*, Jiahao Yuan\* †, Guisong Yang, Usman Naseem
+
+Under Review
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
