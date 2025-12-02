@@ -26,7 +26,7 @@ I am currently seeking job opportunities related to large language models.
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
-- 2025.12: &nbsp;🎉🎉  our Kardia-R1 released on arXiv — check it out now!
+- 2025.12: &nbsp;🎉🎉 Our Kardia-R1 released on arXiv — check it out now!
 
 - 2025.11: &nbsp;🎉🎉 One paper accepted to AAAI 2026!
  
@@ -38,18 +38,19 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 
-# 📝 Publications (* Indicates Equal Contribution)
+# 📝 Publications (* Indicates Equal Contribution, † Indicates Project Leader)
 
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/Kardia-R1.png' alt="kardia" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning](https://arxiv.org/abs/2512.01282)
 
-**Jiahao Yuan**, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem
+**Jiahao Yuan †**, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem
 
 Under Review | [Code](https://github.com/JhCircle/Kardia-R1)
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="95%"></div></div>
@@ -60,6 +61,17 @@ Under Review | [Code](https://github.com/JhCircle/Kardia-R1)
 **Jiahao Yuan**, Zixiang Di, Shangzixin Zhao, Zhiqing Cui, Hanqing Wang, Guisong Yang, Usman Naseem
 
 Under Review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/Prune_on_Logic.png' alt="Prune_on_Logic" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
+
+Shangziqi Zhao\*, **Jiahao Yuan\* †**, Guisong Yang, Usman Naseem
+
+Under Review | [Code](https://github.com/JhCircle/Kardia-R1)
 </div>
 </div>
 
@@ -129,6 +141,10 @@ AAAI 2026 Oral
 </div>
 </div>
 
+## Other Paper
+- [Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation](https://arxiv.org/abs/2505.24787) Yucheng Zhou, **Jiahao Yuan**, Qianning Wang
+- [Instruction-aware User Embedding via Synergistic Language and Representation Modeling](https://arxiv.org/abs/2510.11016) Ziyi Gao\*, Yike Xu\*, **Jiahao Yuan**, Baokun Wang, Jinyong Wen, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
+
 # 🎖 Honors and Awards
 - *2023–2024* First-Class Scholarship for Academic Excellence in USST
 - *2023* IoT Track, Chinese Collegiate Computing Competition, **First Prize**
@@ -149,6 +165,7 @@ AAAI 2026 Oral
 # 💻 Internships
 - 2024.07-2024.11, ByteDance, Living Services Department – User Growth Algorithm Intern
 - 2024.06-2025.12, Ant Group, User Understanding and Representation Large Model Research Intern
+
 <div style="text-align: center;">
   <div style="display: inline-block; width: 40%;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
