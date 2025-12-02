@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "JhCircle"
 description              : "Stay Foolish!"
-#repository               : "RayeRen/acad-homepage.github.io"
+repository               : "JhCircle/JhCircle.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
