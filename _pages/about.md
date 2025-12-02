@@ -146,6 +146,9 @@ AAAI 2026 Oral
 
 - Reviewer: IJCAI (2025); WWW (2025); ACL (2025); EMNLP (2025); AAAI (2026)
 
+# 💻 Internships
+- 2024.07-2024.11, ByteDance, Living Services Department – User Growth Algorithm Intern
+- 2024.06-2025.12, Ant Group, User Understanding and Representation Large Model Research Intern
 <div style="text-align: center;">
   <div style="display: inline-block; width: 40%;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
