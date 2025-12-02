@@ -17,42 +17,138 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests broadly lie in **enhancing reasoning capabilities of LLMs/MLLMs through post-training, and aligning model capabilities across tasks and behaviors** robustly in complex real-world environments. My long-term goal is to develop reasoning alignment and social alignment AI systems that benefit society. 
 
+I am currently seeking job opportunities related to large language models.
+
+Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.12 &nbsp;🎉🎉  our Kardia-R1 released on arXiv — check it out now!
 
-# 📝 Publications 
+- 2025.11: &nbsp;🎉🎉 One paper accepted to AAAI 2026!
+ 
+- 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025!
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
+
+- 2025.05: &nbsp;🎉🎉 Achieved 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
+
+- *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
+
+# 📝 Publications (* Indicates Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/Kardia-R1.png' alt="kardia" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning](https://arxiv.org/abs/2512.01282)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiahao Yuan**, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Under Review | [Code](https://github.com/JhCircle/Kardia-R1)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/CulturalPalette.png' alt="culturalpalette" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette](https://arxiv.org/abs/2412.11167)
+
+**Jiahao Yuan**, Zixiang Di, Shangzixin Zhao, Zhiqing Cui, Hanqing Wang, Guisong Yang, Usman Naseem
+
+Under Review
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div style="text-align: center;">
+<div class="badge">MM 2025</div><img src='./images/Draw_with_Thought.png' alt="draw" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
+
+Zhiqing Cui\*, **Jiahao Yuan\***, Hanqing Wang, Yanshu Li, Chenxu Du, Zhenglong Ding
+
+ACM MM 2025 Oral 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="rot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://aclanthology.org/2025.acl-long.955/)
+
+**Jiahao Yuan**, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem
+
+ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="reflectdiffu" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://aclanthology.org/2025.acl-long.1235/)
+
+**Jiahao Yuan**, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem
+
+ACL 2025 Main
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="text-align: center;">
+      <div class="badge">LLMSR@XLLM25</div>
+      <img src='images/less_is_more.png' alt="sym" style="display: inline-block; width: 40%;">
+    </div>
+  </div>
+
+<div class='paper-box-text' markdown="1">
+
+[LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://aclanthology.org/2025.xllm-1.23/)
+
+**Jiahao Yuan**, Xingzhe Sun, Xing Yu, Jingwen Wang, Dehui Du, Zhiqing Cui, Zixiang Di
+
+XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-is-More)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">AAAI 2026</div><img src='./images/affr1.png' alt="affr1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206)
+
+Hanqing Wang, Shaoyang Wang, Yiming Zhong, Zemin Yang, Jiamin Wang, Zhiqing Cui, **Jiahao Yuan**, Yifan Han, Mingyu Liu, Yuexin Ma
+AAAI 2026 Oral
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023–2024* First-Class Scholarship for Academic Excellence in USST
+- *2023* IoT Track, Chinese Collegiate Computing Competition, **First Prize**
+- *2023* Software Application Development Track, Chinese Collegiate Computing Competition, **Third Prize**
+- *2023* China Collegiate Computing Contest-Network Technology Challenge, **Third Prize**
+- *2022–2023* First-Class Scholarship for Academic Excellence in USST
+- *2021–2022* Outstanding Student in USST
+- *2020–2021* First-Class Scholarship for Academic Excellence in USST
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06 - now*, Artificial Intelligence, East China Normal University. 
+- *2020.09 - 2024.06*, Computer Science & Technology, University of Shanghai for Science and Technology. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# ✍️ Service
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Reviewer: IJCAI (2025); WWW (2025); ACL (2025); EMNLP (2025); AAAI (2026)
+
+<div style="text-align: center;">
+  <div style="display: inline-block; width: 40%;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YWgGoIlggZYg6Cy3hc4bQ4St11CqzFdCMlhV_VhsJBQ&cl=ffffff&w=a"></script>
+</div>
+</div>
+
