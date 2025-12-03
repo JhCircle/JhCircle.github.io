@@ -164,7 +164,7 @@ AAAI 2026 Oral
 
 # 💻 Internships
 - 2024.07-2024.11, ByteDance, Living Services Department – User Growth Algorithm Intern
-- 2024.06-2025.12, Ant Group, User Understanding and Representation Large Model Research Intern
+- 2025.06-2025.12, Ant Group, User Understanding and Representation Large Model Research Intern
 
 <div style="text-align: center;">
   <div style="display: inline-block; width: 40%;">
