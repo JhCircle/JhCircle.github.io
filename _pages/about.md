@@ -47,7 +47,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 **Jiahao Yuan †**, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem
 
-Under Review | [Code](https://github.com/JhCircle/Kardia-R1)
+WWW 2026 | [Code](https://github.com/JhCircle/Kardia-R1)
 </div>
 </div>
 
