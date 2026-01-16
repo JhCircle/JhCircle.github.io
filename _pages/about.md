@@ -160,7 +160,7 @@ AAAI 2026 Oral
 
 # ✍️ Service
 
-- Reviewer: IJCAI (2025); WWW (2025); ACL (2025); EMNLP (2025); AAAI (2026)
+- Reviewer: IJCAI (2025); WWW (2025-2026); ACL (2025-2026); EMNLP (2025); AAAI (2026)
 
 # 💻 Internships
 - 2024.07-2024.11, ByteDance, Living Services Department – User Growth Algorithm Intern
