@@ -26,7 +26,7 @@ I am currently seeking job opportunities related to large language models.
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
-- 2026.01: &nbsp;🎉🎉 Our Kardia-R1 accepted to WWW2026 !!!
+- 2026.01: &nbsp;🎉🎉 Our Kardia-R1 accepted to WWW 2026 !!!
 
 - 2025.11: &nbsp;🎉🎉 One paper accepted to AAAI 2026 !!!
  
