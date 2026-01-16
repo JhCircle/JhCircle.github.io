@@ -69,7 +69,7 @@ Under Review
 
 [Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
 
-Shangziqi Zhao\*, **Jiahao Yuan\* †**, Guisong Yang, Usman Naseem
+Shangziqi Zhao\*, **Jiahao Yuan\* †**, Jinyang Wu\*, Zhenglin Wang, Guisong Yang, Usman Naseem
 
 Under Review | [Code](https://github.com/JhCircle/Kardia-R1)
 </div>
@@ -144,7 +144,7 @@ AAAI 2026 Oral
 ## Other Paper
 - [Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation](https://arxiv.org/abs/2505.24787) Yucheng Zhou, **Jiahao Yuan**, Qianning Wang
 - [Instruction-aware User Embedding via Synergistic Language and Representation Modeling](https://arxiv.org/abs/2510.11016) Ziyi Gao\*, Yike Xu\*, **Jiahao Yuan**, Baokun Wang, Jinyong Wen, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
-
+- [ATLAS: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872) Jinyang Wu\*, Guocheng Zhai\*, Ruihan Jin\*, **Jiahao Yuan**, Yuhao Shen, Shuai Zhang, Zhengqi Wen, Jianhua Tao
 # 🎖 Honors and Awards
 - *2023–2024* First-Class Scholarship for Academic Excellence in USST
 - *2023* IoT Track, Chinese Collegiate Computing Competition, **First Prize**
