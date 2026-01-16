@@ -20,19 +20,19 @@ redirect_from:
 Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
 My research interests broadly lie in **enhancing reasoning capabilities of LLMs/MLLMs through post-training, and aligning model capabilities across tasks and behaviors** robustly in complex real-world environments. My long-term goal is to develop reasoning alignment and social alignment AI systems that benefit society. 
-I have published 5 papers in top international AI conferences such as ACL, AAAI, and MM, including associated competitions. I am also excited to announce the release of our newest empathetic large language model, Kardia-R1.
+I have published 6 papers in top international AI conferences such as ACL, AAAI, WWW, and MM, including associated competitions. I am also excited to announce the release of our newest empathetic large language model, Kardia-R1.
 I am currently seeking job opportunities related to large language models.
 
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
-- 2025.12: &nbsp;🎉🎉 Our Kardia-R1 released on arXiv — check it out now!
+- 2026.01: &nbsp;🎉🎉 Our Kardia-R1 accepted to WWW2026 !!!
 
-- 2025.11: &nbsp;🎉🎉 One paper accepted to AAAI 2026!
+- 2025.11: &nbsp;🎉🎉 One paper accepted to AAAI 2026 !!!
  
-- 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025!
+- 2025.07: &nbsp;🎉🎉 One paper accepted to ACM Multimedia 2025 !!!
 
-- 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
+- 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference !!!
 
 - 2025.05: &nbsp;🎉🎉 Achieved 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
 
@@ -40,7 +40,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 # 📝 Publications (* Indicates Equal Contribution, † Indicates Project Leader)
 
-<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Arxiv</div><img src='./images/Kardia-R1.png' alt="kardia" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">WWW 2026</div><img src='./images/Kardia-R1.png' alt="kardia" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning](https://arxiv.org/abs/2512.01282)
