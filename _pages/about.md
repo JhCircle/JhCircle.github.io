@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
+Hello, I am Jiahao Yuan, currently an intern at **Seed AI Search**, ByteDance, in the Seed Large Language Model Talent Program.
 
-My research interests broadly lie in **enhancing reasoning capabilities of LLMs/MLLMs through post-training and agent rl, and aligning model capabilities across tasks and behaviors** robustly in complex real-world environments. My long-term goal is to develop reasoning alignment and social alignment AI systems that benefit society. 
+My research focuses on **post-training and agent RL for LLM/MLLM reasoning, and on aligning model capabilities across tasks and behaviors** in complex real-world settings. My long-term goal is to build reasoning and social alignment systems that benefit society.
 
-I have published 7 papers in top international AI conferences such as ACL, AAAI, WWW, and MM, including associated competitions. I am also excited to announce the release of our newest empathetic LLM, Kardia-R1.
-As the lead contributor and first author during my internship at Ant Group, I represented the team in releasing **2 technical reports**: [Query as Anchor](https://arxiv.org/abs/2602.14492) & [How do decoder-only llm perceive user?](https://arxiv.org/abs/2602.10622).
-I am currently a **Seed Large Language Model Talent Program intern on Seed AI Search** at ByteDance, and I am seeking job opportunities related to LLMs.
+I have published 7 papers at ACL, AAAI, WWW, and MM, including associated competitions, and released the empathetic LLM Kardia-R1. During my internship at Ant Group, I led two technical reports as first author: [Query as Anchor](https://arxiv.org/abs/2602.14492) and [How Do Decoder-Only LLMs Perceive Users?](https://arxiv.org/abs/2602.10622).
+
+I am seeking job opportunities related to LLMs.
 
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
@@ -124,7 +124,7 @@ ACM MM 2025 Oral
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="rot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://aclanthology.org/2025.acl-long.955/)
+<!-- [Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://aclanthology.org/2025.acl-long.955/)
 
 **Jiahao Yuan**, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem
 
@@ -133,7 +133,7 @@ ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="reflectdiffu" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 [ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://aclanthology.org/2025.acl-long.1235/)
 
@@ -143,7 +143,7 @@ ACL 2025 Main
 </div>
 </div>
 
-
+<!-- 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="text-align: center;">
@@ -160,7 +160,7 @@ ACL 2025 Main
 
 XLLM@ACL (Challenge, 3rd Place) 2025 | [Code](https://github.com/JhCircle/Less-is-More)
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">AAAI 2026</div><img src='./images/affr1.png' alt="affr1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
